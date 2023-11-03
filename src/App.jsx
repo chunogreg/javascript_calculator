@@ -189,7 +189,7 @@ function App() {
         </div>
       </div>
       <h4>Designed and coded by</h4>
-      <h4> Gregory Aniobi </h4> <h4>+2349030994482</h4>
+      <h4> Gregory Aniobi </h4> <h4>chunogreg@gmail.com</h4>
     </>
   );
 }
